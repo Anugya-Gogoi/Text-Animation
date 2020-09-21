@@ -1,5 +1,5 @@
 # Text Animation
-Text animation program
+A program for animating text in a website
 
 ## Technologies Used 
 1. HTML5
